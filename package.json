@@ -10,5 +10,8 @@
     "node"
   ],
   "author": "zy",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.12.0"
+  }
 }
